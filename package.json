@@ -1,5 +1,6 @@
 {
   "private": true,
+  "package-name": "next-js-tutorial",
   "scripts": {
     "build": "next build",
     "dev": "next dev",
